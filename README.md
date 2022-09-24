@@ -39,7 +39,7 @@
 
 <h3 align="left">Checkout my website to know more about me:</h3>
 
-[http://ssubodh.com](http://ssubodh.com/)
+**[http://ssubodh.com](http://ssubodh.com/)**
 
             
 
